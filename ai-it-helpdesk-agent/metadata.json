@@ -1,0 +1,6 @@
+{
+  "name": "AI IT Helpdesk Agent",
+  "description": "Production-ready Tier-1 IT Support Agent built with LangChain, LangGraph, Python, SQLite, and Model Context Protocol (MCP) with live ReAct agent loops and downloadable project files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

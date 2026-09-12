@@ -1,0 +1,23 @@
+# Core Agent & Framework dependencies
+langchain>=0.2.14
+langchain-core>=0.2.35
+langchain-community>=0.2.12
+langgraph>=0.2.14
+
+# LLM Providers (Pick any cloud provider - lightweight & fast)
+langchain-groq>=0.1.9
+langchain-openai>=0.1.22
+langchain-google-genai>=1.0.8
+
+# Vector Store & Embeddings for RAG Tool
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.1
+
+# Web Interface & Dashboard
+streamlit>=1.37.1
+
+# Utilities & Data
+pydantic>=2.8.2
+python-dotenv>=1.0.1
+tabulate>=0.9.0
+requests>=2.32.3
